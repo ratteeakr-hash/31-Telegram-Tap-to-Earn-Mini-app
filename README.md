@@ -7,19 +7,19 @@ It is not the full production source code. Production deployment requires secure
 
 ### Home / Game Screen
 
-![Home Screen](./src/1-home.png)
+![Home Screen](./1-home.png)
 
 ### Tasks Screen
 
-![Tasks Screen](./src/2-tasks.png)
+![Tasks Screen](./2-tasks.png)
 
 ### Referral Screen
 
-![Referral Screen](./src/3-referral.png)
+![Referral Screen](./3-referral.png)
 
 ### Leaderboard Screen
 
-![Rank Screen](./src/4-rank.png)
+![Rank Screen](./4-rank.png)
 ## What is included
 
 - React + TypeScript + Vite frontend
