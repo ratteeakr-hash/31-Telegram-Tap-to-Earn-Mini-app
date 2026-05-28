@@ -6,6 +6,7 @@ It is not the full production source code. Production deployment requires secure
 ## Screenshots
 
 ### Home / Game Screen
+![Thumbnail](./0-TN-tap-to-earn.png)
 
 ![Home Screen](./1-home.png)
 
